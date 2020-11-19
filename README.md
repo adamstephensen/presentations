@@ -4,4 +4,6 @@
 
 PowerPoint deck: [Download](./2020/2020-10-serverless-azure-in-the-enterprise-ndc-sydney.pptx)
 
-Video (partial): [Watch](https://www.youtube.com/playlist?list=PLhFOgUvLvzl8cRfynEi9gGzhgxWGXZaeP)
+Video (Official NDC recording):  [Watch](https://youtu.be/hI6yknJLf-I) 
+
+Video (Key Sections): [Watch](https://www.youtube.com/playlist?list=PLhFOgUvLvzl8cRfynEi9gGzhgxWGXZaeP)
